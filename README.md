@@ -1,4 +1,6 @@
-### :construction: {Hello World} :construction:
+# :construction: {Hello World} :construction:
+
+### Hi, my name is Carlos Urquiza. I'm currently enrolled at [Epicodus](https://www.epicodus.com/) in their Full-Stack JavaScript Bootcamp.
 
 <!--
 **webquiza/webquiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
