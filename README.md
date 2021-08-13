@@ -1,8 +1,6 @@
 # :construction: {Hello World} :construction:
 
-### Hi :wave: I'm currently enrolled at [Epicodus](https://www.epicodus.com/) learning how to code :computer:
-
-### Im enrolled in their Full-Stack JavaScript Bootcamp.
+### Hi :wave: I'm currently learning how to code with the help of [Epicodus](https://www.epicodus.com/). 
 
 <!--
 **webquiza/webquiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
