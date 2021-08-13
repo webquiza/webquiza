@@ -1,7 +1,5 @@
 # :construction: {Hello World} :construction:
 
-:wave:
-
 ### Currently learning how to code with the help of [Epicodus](https://www.epicodus.com/). 
 
 <!--
