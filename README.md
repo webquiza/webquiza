@@ -1,6 +1,4 @@
-# :construction: {Hello World} :construction:
-
-### Currently learning how to code with the help of [Epicodus](https://www.epicodus.com/). 
+### :computer: Currently learning software test automation :white_check_mark:
 
 <!--
 **webquiza/webquiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
