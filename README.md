@@ -1,5 +1,4 @@
-### Is learning software test automation :computer: :white_check_mark:
-
+### Hi 👋🏽
 <!--
 **webquiza/webquiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
